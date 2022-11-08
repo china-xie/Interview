@@ -3,13 +3,13 @@
     * [**java集合**](/interview/java集合/Java集合面试题答案.md)
     * [**Java 并发 && 多线程**](/interview/Java并发&&多线程/Java并发&&多线程.md)
     * [**JVM 篇**](/interview/JVM篇/JVM面试题.md)
-    * [**mybatis**](/interview/mybatis/mybatis面试题.md)
+    * [**mybatis**](/interview/mybatis/mybatis面试题/mybatis面试题.md )
     * [**netty**](/interview/netty/netty面试题.md)
     * [**nginx**](/interview/nginx/nginx面试题.md)
     * [**linux**](/interview/linux/linux命令面试题.md)
     * [**Elasticsearch**](/interview/Elasticsearch/Elasticsearch面试.md)
     * [**spring**](/interview/spring面试题/spring相关面试题.md)
-    * [**SpringBoot**](/study/SpringBoot/README.md)
+    * [**SpringBoot**](/interview/springBoot/springBoot面试题.md)
     * [**springCloud**](/interview/springCloud/springCloud面试题.md)
     * [**MQ**](/interview/消息队列/消息队列面试题.md)
     * [**dubbo**](/interview/dubbo/dubbo面试题/dubbo面试题.md)
@@ -22,7 +22,6 @@
     * [**分布式**](/interview/分布式/分布式面试题.md)
     * [**系统设计方案设计**](/interview/系统设计方案设计/大厂系统设计方案面试题.md)
     * [**大厂面试真题**](/interview/大厂面试真题/大厂面试真题.md)
-    
     
 * 暂无更多...
 
